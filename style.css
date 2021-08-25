@@ -1,0 +1,28 @@
+@charset "utf8";
+header{
+    margin-bottom: 64px;
+}
+header > p{
+    vertical-align: middle;
+    text-align: right ;
+}
+body{
+    border-top: 4px solid rgb(44, 44, 172);
+    margin: 0px;
+}
+
+#body2{
+    margin: auto;
+    padding: 8px;
+    max-width: 900px;
+    
+}
+
+p{
+    text-align: justify;
+    text-indent: 2em;
+}
+
+main >img{
+    width: 100%;
+}
